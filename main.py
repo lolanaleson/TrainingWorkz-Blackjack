@@ -61,6 +61,7 @@ def BlackJack():
 
 
 if __name__=='__main__':
+   print("")
 
    BlackJack()
 
